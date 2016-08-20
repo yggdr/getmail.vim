@@ -1,1 +1,1 @@
-au BufRead,BufNewFile getmailrc setfiletype getmailrc
+au BufRead,BufNewFile *getmailrc setfiletype getmailrc
